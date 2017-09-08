@@ -1,0 +1,7 @@
+C:\Users\Mallikarjun\Documents\Visual Studio 2017\Projects\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe.config
+C:\Users\Mallikarjun\Documents\Visual Studio 2017\Projects\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe
+C:\Users\Mallikarjun\Documents\Visual Studio 2017\Projects\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.pdb
+C:\Users\Mallikarjun\Documents\Visual Studio 2017\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.csprojResolveAssemblyReference.cache
+C:\Users\Mallikarjun\Documents\Visual Studio 2017\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.csproj.CoreCompileInputs.cache
+C:\Users\Mallikarjun\Documents\Visual Studio 2017\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.exe
+C:\Users\Mallikarjun\Documents\Visual Studio 2017\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.pdb
